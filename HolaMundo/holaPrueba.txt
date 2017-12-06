@@ -1,0 +1,25 @@
+Se tienen ocho tipos primitivos de datos
+estos son:
+
+char
+boolean
+byte
+int
+float
+long
+short
+double star
+
+
+char - recibe un solo caracter
+
+boolean - acepta valores de verdad-falsos
+short   - enteros ocupa espacio de 16 bits (-32 768 a 32 767)
+byte    - enteros 8 bits (-128 a 127)
+int	- enteros 32 bits (-2,147,483,647  -  )
+long	- 64 bits
+
+float   - 32 bits 7 digitos de precision
+double  - 64 bits
+
+https://www.youtube.com/watch?v=UWovblxkARQ
