@@ -1,3 +1,5 @@
+//Crea la session a utilizar por la aplicación
+
 package com.fabiandeita.controlescolar.dao;
 
 import org.hibernate.SessionFactory;

@@ -5,10 +5,9 @@
               version="2.0">
  <managed-bean>
   <managed-bean-name>pruebaComponent</managed-bean-name>
-  <managed-bean-class>com.fabiandeita.controlescolar.bean.Prueba</managed-bean-class>
-  <managed-bean-scope>session</managed-bean-scope>
- </managed-bean>
-   
+  <managed-bean-class>com.fabiandeita.controlescolar.bean.PruebaControlador</managed-bean-class>
+ 
+  <managed-bean-scope>session</managed-bean-scope></managed-bean>
  
   <navigation-rule>
       <from-view-id>*</from-view-id>
